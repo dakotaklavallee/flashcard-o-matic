@@ -29,7 +29,7 @@ export default function CardForm({
           <li className="breadcrumb-item active">{activeLinkDescription}</li>
         </ol>
       </nav>
-      <h2>{status} Deck</h2>
+      <h2>{status} Card</h2>
       <div className="form-group">
         <label htmlFor="name">Front</label>
         <textarea
